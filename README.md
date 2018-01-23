@@ -6,4 +6,4 @@ No meu atual trabalho me deparei com a necessidade de renomear 1.410 arquivos no
 3-Coletar o código da inscrição que se posicionaca logo após;
 4-Renomear o arquivo pdf cujo códido da inscrição foi coletado.
 
-
+O script "RenomeiaPdf.r" resolve este problema
